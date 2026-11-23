@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="120dp"
+    android:viewportWidth="140"
+    android:viewportHeight="120">
+    <!-- Bottom book -->
+    <path android:fillColor="#173B70" android:pathData="M20,95 L110,75 L120,85 L30,105 Z" />
+    <path android:fillColor="#DCEAFE" android:pathData="M22,93 L108,73 L110,76 L24,96 Z" />
+    <!-- Middle book -->
+    <path android:fillColor="#3269E8" android:pathData="M25,80 L105,62 L112,70 L32,88 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M27,78 L103,60 L105,63 L29,81 Z" />
+    <!-- Top book -->
+    <path android:fillColor="#082B63" android:pathData="M30,65 L100,50 L106,58 L36,73 Z" />
+    <path android:fillColor="#DCEAFE" android:pathData="M32,63 L98,48 L100,51 L34,66 Z" />
+    <!-- Graduation Cap (Mortarboard) -->
+    <path android:fillColor="#082B63" android:pathData="M70,25 L115,40 L70,55 L25,40 Z" />
+    <path android:fillColor="#173B70" android:pathData="M45,47 L45,58 C45,64 95,64 95,58 L95,47 Z" />
+    <!-- Tassel -->
+    <path android:strokeColor="#F59E0B" android:strokeWidth="2" android:pathData="M95,45 C105,45 110,55 105,65" />
+    <path android:fillColor="#F59E0B" android:pathData="M103,66 a2,2 0 1,1 4,0 a2,2 0 1,1 -4,0" />
+</vector>

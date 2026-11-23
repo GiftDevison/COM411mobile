@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Curved arc background decoration -->
+    <path android:strokeColor="#60A5FA" android:strokeWidth="2.5" android:fillColor="#00000000" android:pathData="M8,68 C30,15 78,15 100,68" />
+
+    <!-- Open Book at Bottom -->
+    <path android:fillColor="#2563EB" android:pathData="M16,84 C28,78 40,82 54,92 C68,82 80,78 92,84 C80,96 68,98 54,96 C40,98 28,96 16,84 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M18,80 C30,74 42,79 54,89 C66,79 78,74 90,80 C78,92 66,94 54,92 C42,94 30,92 18,80 Z" />
+
+    <!-- Calendar Icon in Middle -->
+    <path android:fillColor="#1E3A8A" android:pathData="M30,44 L78,44 C81,44 83,46 83,49 L83,76 C83,79 81,81 78,81 L30,81 C27,81 25,79 25,76 L25,49 C25,46 27,44 30,44 Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M28,50 L80,50 L80,78 L28,78 Z" />
+    <!-- Calendar Header -->
+    <path android:fillColor="#3B82F6" android:pathData="M28,50 L80,50 L80,58 L28,58 Z" />
+    <!-- Calendar Rings -->
+    <path android:fillColor="#1E3A8A" android:pathData="M36,40 L40,40 L40,46 L36,46 Z" />
+    <path android:fillColor="#1E3A8A" android:pathData="M52,40 L56,40 L56,46 L52,46 Z" />
+    <path android:fillColor="#1E3A8A" android:pathData="M68,40 L72,40 L72,46 L68,46 Z" />
+    <!-- Checkmark on Calendar -->
+    <path android:fillColor="#22C55E" android:pathData="M48,64 L54,70 L66,56 L62,53 L54,62 L51,59 Z" />
+
+    <!-- Clock Icon on Right -->
+    <path android:fillColor="#FFFFFF" android:pathData="M76,58 C83,58 89,64 89,71 C89,78 83,84 76,84 C69,84 63,78 63,71 C63,64 69,58 76,58 Z" />
+    <path android:strokeColor="#1E3A8A" android:strokeWidth="2" android:fillColor="#00000000" android:pathData="M76,58 C83,58 89,64 89,71 C89,78 83,84 76,84 C69,84 63,78 63,71 C63,64 69,58 76,58 Z" />
+    <path android:strokeColor="#1E3A8A" android:strokeWidth="1.5" android:pathData="M76,63 L76,71 L81,73" />
+
+    <!-- Graduation Cap at Top -->
+    <path android:fillColor="#172554" android:pathData="M54,18 L94,30 L54,42 L14,30 Z" />
+    <path android:fillColor="#1D4ED8" android:pathData="M54,20 L88,30 L54,40 L20,30 Z" />
+    <!-- Cap Base -->
+    <path android:fillColor="#1E3A8A" android:pathData="M40,36 L68,36 L70,44 L38,44 Z" />
+
+    <!-- Gold Tassel -->
+    <path android:strokeColor="#F59E0B" android:strokeWidth="2.5" android:pathData="M82,28 C88,30 90,38 88,48" />
+    <path android:fillColor="#F59E0B" android:pathData="M85,48 L91,48 L88,56 Z" />
+</vector>
